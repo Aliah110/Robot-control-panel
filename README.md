@@ -16,3 +16,7 @@ and the reason is that in the event of an accident The robot malfunctions or sto
 
 <img width="960" alt="image" src="https://user-images.githubusercontent.com/108204114/183433049-1211d9e6-b7b0-428a-9c5a-224bec608ced.png">
 
+## Reference : <br>
+https://www.w3schools.com/ <br>
+https://youtu.be/M3M0t8AT-CU <br>
+https://youtu.be/UzwyDdX3TS8 <br>
